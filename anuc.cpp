@@ -11,7 +11,7 @@ int main()
     SetConsoleTitle("Developed by Likhan");
     string x,y;
     int a;
-    int randleta=1;//for the while condition after default case in Distance Class
+    int randleta=1;//for the while condition after default case in Distance case
     do
     {
         {
